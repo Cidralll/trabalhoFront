@@ -1,0 +1,55 @@
+.sectionAddProduto {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #808080;
+}
+
+.divAddProduto {
+    width: 50%;
+    height: 75%;
+    background-color: 	#D3D3D3;
+    border-radius: 30px;
+}
+
+.divH1 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    font-size: 3rem;
+    font-weight: bold;
+    margin-block-end: 1%;
+}
+
+.divInputs {
+    width: 50%;
+    margin-left: 25%;
+} 
+.divInputs p {
+    font-size: 1.5rem;
+} 
+.divInputs input {
+    width: 100%;
+    height: 5vh;
+    font-size: 1.5rem;
+}
+
+.error {
+    display: flex;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: red;
+}
+
+.button {
+    background-color: #808080;
+    width: 30%;
+    height: 5vh;
+    font-size: 1.5rem;
+    border-radius: 30px;
+    margin-left: 34%;
+    margin-top: 5%;
+}
